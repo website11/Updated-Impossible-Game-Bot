@@ -2,7 +2,7 @@
 The is an updated version of the impossible game bot. My previous version is incomplete and inconsistent. This is because I made the mistake of taking on too much at once. I plan on breaking down this project into much smaller chunks know that I have a better idea of the step-by-step process. Here's an outline:
 
 1. Create a program that will have the capability to precisely click any icon/image that is fed to it. Precision is key! It should account for items such as screen resolution and resizing. (Template Matching)\
-   I. The program should have the capability to view a window in near real-time capabilities (in-progress)\
+   I. The program should have the capability to view a window in near real-time capabilities (in-progress) \
    II. The program should take in an image and perform the necessary adjustments for matching\
    III. The program should detect the image on-screen and appropriately navigate the mouse to the correct location and click
    

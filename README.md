@@ -17,6 +17,6 @@ The is an updated version of the impossible game bot. My previous version is inc
    I. (to be determined)
 
 Goals:
-- Learn how to utilise openCV
-- Learn the basics of audio processing
-- Develop a deeper understanding of q-learning methods
+- Learn how to utilise openCV\
+- Learn the basics of audio processing\
+- Develop a deeper understanding of q-learning methods\

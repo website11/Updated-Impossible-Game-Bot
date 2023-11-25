@@ -12,5 +12,11 @@ The is an updated version of the impossible game bot. My previous version is inc
   III. Detect incoming audio and listen for initial .wav file sounds\
   IV. Send a ping when .wav file sound is detected
 
-4. Create a reinforcement bot that relies on death sounds to learn and make adjustments (through q-learning)\
+4. Create a reinforcement bot that relies on obstacle images to learn and make adjustments
+5. Create a reinforcement bot that relies on death sounds to learn and make adjustments (through q-learning)\
    I. (to be determined)
+
+Goals:
+- Learn how to utilise openCV
+- Learn the basics of audio processing
+- Develop a deeper understanding of q-learning methods
